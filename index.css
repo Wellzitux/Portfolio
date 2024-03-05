@@ -342,26 +342,22 @@
 }
 .home-container06 {
   gap: var(--dl-space-space-unit);
-  width: 572px;
+  width: 558px;
   height: 43px;
   display: flex;
+  align-self: flex-start;
   align-items: center;
   justify-content: center;
 }
 .home-link {
   color: #181818;
-  width: 139px;
+  width: 125px;
   height: 25px;
   padding: 0px;
-  font-size: 12px;
-  align-self: center;
-  text-align: center;
   transition: 0.3s;
-  line-height: 1;
   border-color: #343434;
   border-width: 1px;
   text-transform: uppercase;
-  text-decoration: none;
   background-color: transparent;
 }
 .home-link:hover {
@@ -375,16 +371,10 @@
   color: #181818;
   width: 120px;
   height: 25px;
-  padding: 0px;
-  font-size: 12px;
-  align-self: center;
-  text-align: center;
   transition: 0.3s;
-  line-height: 1;
   border-color: #343434;
   border-width: 1px;
   text-transform: uppercase;
-  text-decoration: none;
   background-color: transparent;
 }
 .home-link01:hover {
@@ -399,16 +389,10 @@
   color: #181818;
   width: 89px;
   height: 25px;
-  padding: 0px;
-  font-size: 12px;
-  align-self: center;
-  text-align: center;
   transition: 0.3s;
-  line-height: 1;
   border-color: #343434;
   border-width: 1px;
   text-transform: uppercase;
-  text-decoration: none;
   background-color: transparent;
 }
 .home-link02:hover {
@@ -422,16 +406,10 @@
   color: #181818;
   width: 75px;
   height: 25px;
-  padding: 0px;
-  font-size: 12px;
-  align-self: center;
-  text-align: center;
   transition: 0.3s;
-  line-height: 1;
   border-color: #343434;
   border-width: 1px;
   text-transform: uppercase;
-  text-decoration: none;
   background-color: transparent;
 }
 .home-link03:hover {
@@ -445,16 +423,10 @@
   color: #181818;
   width: 86px;
   height: 25px;
-  padding: 0px;
-  font-size: 12px;
-  align-self: center;
-  text-align: center;
   transition: 0.3s;
-  line-height: 1;
   border-color: #343434;
   border-width: 1px;
   text-transform: uppercase;
-  text-decoration: none;
   background-color: transparent;
 }
 .home-link04:hover {
@@ -532,7 +504,7 @@
 }
 .home-container09 {
   gap: var(--dl-space-space-unit);
-  width: 572px;
+  width: 558px;
   height: 49px;
   display: flex;
   align-items: center;
@@ -540,13 +512,9 @@
 }
 .home-link05 {
   color: #181818;
-  width: 139px;
+  width: 125px;
   height: 25px;
-  font-size: 12px;
-  align-self: center;
-  text-align: center;
   transition: 0.3s;
-  line-height: 1;
   border-color: #343434;
   border-width: 1px;
   text-transform: uppercase;
@@ -564,11 +532,7 @@
   color: #181818;
   width: 120px;
   height: 25px;
-  font-size: 12px;
-  align-self: center;
-  text-align: center;
   transition: 0.3s;
-  line-height: 1;
   border-color: #343434;
   border-width: 1px;
   text-transform: uppercase;
@@ -587,11 +551,7 @@
   color: #181818;
   width: 89px;
   height: 25px;
-  font-size: 12px;
-  align-self: center;
-  text-align: center;
   transition: 0.3s;
-  line-height: 1;
   border-color: #343434;
   border-width: 1px;
   text-transform: uppercase;
@@ -609,11 +569,7 @@
   color: #181818;
   width: 75px;
   height: 25px;
-  font-size: 12px;
-  align-self: center;
-  text-align: center;
   transition: 0.3s;
-  line-height: 1;
   border-color: #343434;
   border-width: 1px;
   text-transform: uppercase;
@@ -631,11 +587,7 @@
   color: #181818;
   width: 86px;
   height: 25px;
-  font-size: 12px;
-  align-self: center;
-  text-align: center;
   transition: 0.3s;
-  line-height: 1;
   border-color: #343434;
   border-width: 1px;
   text-transform: uppercase;
@@ -725,13 +677,9 @@
 }
 .home-link10 {
   color: #181818;
-  width: 139px;
+  width: 100px;
   height: 25px;
-  font-size: 12px;
-  align-self: center;
-  text-align: center;
   transition: 0.3s;
-  line-height: 1;
   border-color: #343434;
   border-width: 1px;
   text-transform: uppercase;
@@ -749,11 +697,7 @@
   color: #181818;
   width: 120px;
   height: 25px;
-  font-size: 12px;
-  align-self: center;
-  text-align: center;
   transition: 0.3s;
-  line-height: 1;
   border-color: #343434;
   border-width: 1px;
   text-transform: uppercase;
@@ -763,7 +707,7 @@
 .home-link11:hover {
   color: #efefef;
   background-color: transparent;
-  background-image: linear-gradient(90deg, rgb(66, 133, 244) 4.00%,rgb(66, 133, 244) 21.00%,rgb(75, 175, 113) 26.00%,rgb(75, 175, 113) 62.00%,rgb(234, 67, 53) 65.00%,rgb(234, 67, 53) 87.00%,rgb(251, 188, 4) 95.00%);
+  background-image: linear-gradient(90deg, rgb(66, 133, 244) 4.00%,rgb(66, 133, 244) 48.00%,rgb(75, 175, 113) 52.00%,rgb(75, 175, 113) 77.00%);
 }
 .home-text079 {
   font-size: 12px;
@@ -855,13 +799,9 @@
 }
 .home-link12 {
   color: #181818;
-  width: 139px;
+  width: 100px;
   height: 25px;
-  font-size: 12px;
-  align-self: center;
-  text-align: center;
   transition: 0.3s;
-  line-height: 1;
   border-color: #343434;
   border-width: 1px;
   text-transform: uppercase;
@@ -879,11 +819,7 @@
   color: #181818;
   width: 80px;
   height: 25px;
-  font-size: 12px;
-  align-self: center;
-  text-align: center;
   transition: 0.3s;
-  line-height: 1;
   border-color: #343434;
   border-width: 1px;
   text-transform: uppercase;
