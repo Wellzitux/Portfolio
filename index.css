@@ -345,6 +345,7 @@
   width: 558px;
   height: 43px;
   display: flex;
+  position: relative;
   align-self: flex-start;
   align-items: center;
   justify-content: center;
@@ -354,6 +355,9 @@
   width: 125px;
   height: 25px;
   padding: 0px;
+  position: relative;
+  align-self: center;
+  text-align: center;
   transition: 0.3s;
   border-color: #343434;
   border-width: 1px;
@@ -371,6 +375,7 @@
   color: #181818;
   width: 120px;
   height: 25px;
+  text-align: center;
   transition: 0.3s;
   border-color: #343434;
   border-width: 1px;
@@ -389,6 +394,7 @@
   color: #181818;
   width: 89px;
   height: 25px;
+  text-align: center;
   transition: 0.3s;
   border-color: #343434;
   border-width: 1px;
@@ -406,6 +412,7 @@
   color: #181818;
   width: 75px;
   height: 25px;
+  text-align: center;
   transition: 0.3s;
   border-color: #343434;
   border-width: 1px;
@@ -423,6 +430,7 @@
   color: #181818;
   width: 86px;
   height: 25px;
+  text-align: center;
   transition: 0.3s;
   border-color: #343434;
   border-width: 1px;
@@ -514,6 +522,7 @@
   color: #181818;
   width: 125px;
   height: 25px;
+  text-align: center;
   transition: 0.3s;
   border-color: #343434;
   border-width: 1px;
@@ -532,6 +541,7 @@
   color: #181818;
   width: 120px;
   height: 25px;
+  text-align: center;
   transition: 0.3s;
   border-color: #343434;
   border-width: 1px;
@@ -551,6 +561,7 @@
   color: #181818;
   width: 89px;
   height: 25px;
+  text-align: center;
   transition: 0.3s;
   border-color: #343434;
   border-width: 1px;
@@ -569,6 +580,7 @@
   color: #181818;
   width: 75px;
   height: 25px;
+  text-align: center;
   transition: 0.3s;
   border-color: #343434;
   border-width: 1px;
@@ -587,6 +599,7 @@
   color: #181818;
   width: 86px;
   height: 25px;
+  text-align: center;
   transition: 0.3s;
   border-color: #343434;
   border-width: 1px;
@@ -679,6 +692,7 @@
   color: #181818;
   width: 100px;
   height: 25px;
+  text-align: center;
   transition: 0.3s;
   border-color: #343434;
   border-width: 1px;
@@ -697,6 +711,7 @@
   color: #181818;
   width: 120px;
   height: 25px;
+  text-align: center;
   transition: 0.3s;
   border-color: #343434;
   border-width: 1px;
@@ -801,6 +816,7 @@
   color: #181818;
   width: 100px;
   height: 25px;
+  text-align: center;
   transition: 0.3s;
   border-color: #343434;
   border-width: 1px;
@@ -819,6 +835,7 @@
   color: #181818;
   width: 80px;
   height: 25px;
+  text-align: center;
   transition: 0.3s;
   border-color: #343434;
   border-width: 1px;
